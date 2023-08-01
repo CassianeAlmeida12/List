@@ -1,0 +1,15 @@
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\bin\Debug\net6.0\ExLista2.exe
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\bin\Debug\net6.0\ExLista2.deps.json
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\bin\Debug\net6.0\ExLista2.runtimeconfig.json
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\bin\Debug\net6.0\ExLista2.dll
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\bin\Debug\net6.0\ExLista2.pdb
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.csproj.AssemblyReference.cache
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.AssemblyInfoInputs.cache
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.AssemblyInfo.cs
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.dll
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\refint\ExLista2.dll
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.pdb
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ExLista2.genruntimeconfig.cache
+C:\Users\2022102020029\source\repos\ExLista2\ExLista2\obj\Debug\net6.0\ref\ExLista2.dll
